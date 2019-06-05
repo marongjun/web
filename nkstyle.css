@@ -1,0 +1,26 @@
+body{
+    margin: 30 px;
+}
+
+.navbar{
+background: #124191;
+}
+
+.breadcrumb-item {
+padding-left: 0rem;
+margin-left: 0px;
+align-content: flex-start;
+align-items: flex-start;
+}
+.mleft {
+align-items: flex-start;
+align-content: flex-start;
+padding-left: 0px;
+margin-left: 0px;
+}
+.mright{
+align-items: flex-end;
+align-content: flex-end;
+padding-right: 0px;
+margin-right: 0px;
+}
