@@ -110,6 +110,7 @@ class Root extends React.Component {
           <Breadcrumb />
           <Search />
           <SearchByCom />
+          <SearchByCom />
         </div>
 
       </div>
